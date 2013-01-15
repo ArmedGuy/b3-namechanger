@@ -1,4 +1,3 @@
-# Kopimi license, do whatever you want with it, feel free to put my name as an author IF you like
 # No configuration needed
 __version__ = '0.3'
 __author__  = 'ArmedGuy'
