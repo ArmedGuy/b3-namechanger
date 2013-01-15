@@ -12,7 +12,7 @@ Installs as any other B3 plugin. No plugin configuration file included nor neede
 Usage
 -----
 When ingame, one can use the command to track players that have changed their name during a defined scan duration
-using the command !namechanger [delay] [amount] (or its alias, !nc).
+using the command `!namechanger [delay] [amount] (or its alias, !nc)`.
 
 delay is a time delay in seconds between each scan(lower delay better for faster namechangers)
 amount is the number of checks to be made before reporting back.
